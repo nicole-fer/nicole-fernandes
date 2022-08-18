@@ -2,15 +2,39 @@
 ## Hello, Devs! Meu nome é Nicole Fernandes
 ### Bem vindo ao meu perfil GitHub 👋
 
-<img src="https://user-images.githubusercontent.com/88677900/185417738-0150e2cf-eb83-446e-bc57-eed5680c6161.png" width="150" height="150" />
 
 Sou estudante em Engenharia da Computação e tenho interesse em desevolvimento de sistemas, meus conhecimentos são:
-- Javascript -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
-- HTML5 -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" />
-- CSS3 -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" />
-- Vue JS -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="30" height="30"/>
-- Tailwind CSS -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30" />
-- Laravel -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" height="30" />
+
+<table>
+<tr>
+<td>
+<ul>
+<li>
+Javascript -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /> 
+</li>
+<li>
+HTML5 -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" />
+</li>
+<li>
+CSS3 -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" />
+</li>
+<li>
+Vue JS -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="30" height="30"/>
+</li>
+<li>
+Tailwind CSS -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30" />
+</li>
+<li>
+Laravel -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" height="30" />
+</li>
+</ul>
+</td>
+
+<td>
+<img src="https://user-images.githubusercontent.com/88677900/185421618-b366170e-17cd-4aa1-97d9-05021e4d9bac.png" width="150" height="230" />
+</td>
+</tr>
+</table>
 
 <div>
 <a href = "mailto:nicolefernandesfm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
