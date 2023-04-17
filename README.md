@@ -37,10 +37,13 @@ Sou estudante em Engenharia da Computação e tenho interesse em desevolvimento 
         <li>
           React Native -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />
         </li>
+         <li>
+          React -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />
+        </li>
       </ul>
     </td>
     <td>
-       <img src="https://user-images.githubusercontent.com/88677900/185421618-b366170e-17cd-4aa1-97d9-05021e4d9bac.png" width="150" height="230" />
+       <img src="https://user-images.githubusercontent.com/88677900/232505387-2e8d53e9-da19-45a3-ae0f-c5a87a44a2ca.png" width="150" height="260" />
     </td>
   </tr>
 </table>
