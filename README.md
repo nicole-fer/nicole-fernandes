@@ -6,11 +6,21 @@
   <a href="https://github.com/nicole-fer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-fer&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicole-fer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicole-fer)](https://github.com/nicole-fer/github-readme-stats)
     </a>
 </div>
 <br>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 Sou formada em Engenharia da Computação e tenho interesse em desevolvimento de sistemas, meus conhecimentos são:
 
 <table>
