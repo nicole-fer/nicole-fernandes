@@ -1,53 +1,38 @@
-
-## Hello, Devs! Meu nome é Nicole Fernandes
-### Bem vindo ao meu perfil GitHub 👋
-
-<div>
-  <a href="https://github.com/nicole-fer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-fer&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicole-fer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
+<div  align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F749C5&center=true&random=false&width=435&lines=Hello%2C+devs!!;My+name+is+Nicole+Fernandes" alt="Typing SVG" /></a>
 </div>
 <br>
 
-Sou formada em Engenharia da Computação e tenho interesse em desevolvimento de sistemas, meus conhecimentos são:
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>
-        Javascript -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /> 
-        </li>
-        <li>
-        HTML5 -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" />
-        </li>
-        <li>
-        CSS3 -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" />
-        </li>
-        <li>
-        Vue JS -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="30" height="30"/>
-        </li>
-        <li>
-        Tailwind CSS -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30" />
-        </li>
-        <li>
-        Laravel -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" height="30" />
-        </li>
-        <li>
-          React Native -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />
-        </li>
-         <li>
-          React -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />
-        </li>
-      </ul>
-    </td>
-    <td>
-       <img src="https://user-images.githubusercontent.com/88677900/232505387-2e8d53e9-da19-45a3-ae0f-c5a87a44a2ca.png" width="150" height="260" />
-    </td>
-  </tr>
-</table>
+### Bem vindo ao meu perfil GitHub 👋
 
+Sou formada em Engenharia da Computação e sou Desenvolvedora Web Full Stack!
+
+ ### Principais habilidades:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwind-css&labelC)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-0D1117.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-0D1117.svg?style=for-the-badge&logo=laravel&logoColor=red)
+
+
+
+<div align="center">
+  <a href="https://github.com/nicole-fer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-fer&layout=compact&langs_count=7&theme=dracula"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicole-fer&theme=dracula" />
+  </a>
+</div>
+<br>
+<div align="center">
+       <img height="300em" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nicole-fer&bg_color=1c1c1c&color=c680c1&line=c05dba&point=ffadf4&area=true&hide_border=true"/>
+</div>
+<br>
+
+### Contato
 <div>
   <a href = "mailto:nicolefernandesfm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -57,6 +42,6 @@ Sou formada em Engenharia da Computação e tenho interesse em desevolvimento de
   </a>
   <a href="https://instagram.com/nicols_fer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-</div>
+
 <br>
 
